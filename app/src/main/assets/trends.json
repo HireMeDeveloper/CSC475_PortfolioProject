@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "title": "Smaller Breakfasts",
+      "description": "You are eating smaller breakfasts than your baseline, maybe look at recipes for other meals.",
+      "text": "",
+      "type" : "trend",
+      "icon": 5,
+      "height": 65,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Larger Breakfasts",
+      "description": "You are eating larger breakfasts than your baseline, maybe try searching for some new breakfast recipes.",
+      "text": "",
+      "type" : "trend",
+      "icon": 5,
+      "height": 65,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Smaller Lunches",
+      "description": "You are eating smaller lunches than your baseline, maybe look at recipes for other meals.",
+      "text": "",
+      "type" : "trend",
+      "icon": 5,
+      "height": 65,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Larger Lunches",
+      "description": "You are eating larger lunches than your baseline, maybe try searching for some new lunch recipes.",
+      "text": "",
+      "type" : "trend",
+      "icon": 5,
+      "height": 65,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Smaller Dinners",
+      "description": "You are eating smaller dinners than your baseline, maybe look at recipes for other meals.",
+      "text": "",
+      "type" : "trend",
+      "icon": 5,
+      "height": 65,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Larger Dinners",
+      "description": "You are eating larger dinners than your baseline, maybe try searching for some new dinner recipes.",
+      "text": "",
+      "type" : "trend",
+      "icon": 5,
+      "height": 65,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Eating More Desserts",
+      "description": "You have recently been eating more desserts, maybe try searching for some new dessert recipes.",
+      "text": "",
+      "type" : "trend",
+      "icon": 5,
+      "height": 65,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Eating Fewer Desserts",
+      "description": "You have recently been eating fewer desserts, don't be afraid to treat yourself!",
+      "text": "",
+      "type" : "trend",
+      "icon": 5,
+      "height": 65,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "More Workouts",
+      "description": "You have recently been going on more workouts! Keep up the great work!",
+      "text": "",
+      "type" : "trend",
+      "icon": 5,
+      "height": 65,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Fewer Workouts",
+      "description": "You have recently been going on fewer workouts. Focusing on diet can give be just at vital to your fitness.",
+      "text": "",
+      "type" : "trend",
+      "icon": 5,
+      "height": 65,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    }
+  ]
+}

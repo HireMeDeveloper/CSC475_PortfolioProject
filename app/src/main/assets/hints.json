@@ -1,0 +1,112 @@
+{
+  "entries": [
+    {
+      "title": "Track Your Habits",
+      "description": "Tracking your habits to help deliver the best accuracy for recommendations.",
+      "text": "",
+      "type" : "hint",
+      "icon": 4,
+      "height": 55,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Favorite Recipes",
+      "description": "Mark the best recipes as your favorites to make them much easier to find.",
+      "text": "",
+      "type" : "hint",
+      "icon": 4,
+      "height": 55,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Login Daily",
+      "description": "Make sure to login and post stats daily to keep track of eating and workout trends.",
+      "text": "",
+      "type" : "hint",
+      "icon": 4,
+      "height": 55,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Set Your Baseline",
+      "description": "In your profile tab, you can set your baseline habits to compare your current trends with.",
+      "text": "",
+      "type" : "hint",
+      "icon": 4,
+      "height": 55,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Try New Recipes",
+      "description": "There are many recipes to try, make sure you use the search feature to find new ones.",
+      "text": "",
+      "type" : "hint",
+      "icon": 4,
+      "height": 55,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "The Home Tab",
+      "description": "The home tab is a great place to find new recipes since its based off of eating trends.",
+      "text": "",
+      "type" : "hint",
+      "icon": 4,
+      "height": 55,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "The Trends Tab",
+      "description": "The trends tab is a great place to view your eating trends at a glance.",
+      "text": "",
+      "type" : "hint",
+      "icon": 4,
+      "height": 55,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Healthy Meals",
+      "description": "Healthy meals have the 'Healthy' keyword before the title.",
+      "text": "",
+      "type" : "hint",
+      "icon": 4,
+      "height": 55,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    },
+    {
+      "title": "Viewing Recipes",
+      "description": "You can click to expand recipes to view the ingredients and instructions.",
+      "text": "",
+      "type" : "hint",
+      "icon": 4,
+      "height": 55,
+      "isRecipe": false,
+      "isFavorite": false,
+      "isHealthy" : false,
+      "size": "medium"
+    }
+  ]
+}

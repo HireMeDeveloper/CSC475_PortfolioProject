@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="hints_titles">
+        <item>Track Your Habits</item>
+        <item>Favorite Recipes</item>
+        <item>Login Daily</item>
+        <item>Set Your Baseline</item>
+        <item>Try New Recipes</item>
+    </string-array>
+
+    <string-array name="hint_bodies">
+        <item>Tracking your habits to help deliver the best accuracy for recommendations.</item>
+        <item>Mark the best recipes as your favorites to make them much easier to find.</item>
+        <item>Make sure to login and track stats daily to keep track of eating and workout trends.</item>
+        <item>In your profile tab, you can set your baseline habits to compare your current trends with.</item>
+        <item>There are many recipes to try, make sure you use the search feature to find new ones.</item>
+    </string-array>
+</resources>
